@@ -816,7 +816,7 @@ a {
 }
 
 /* Showcase Block  */
-.block__showcase__image > img {
+.block-showcase__image > img {
   width: 100%;
 }
 
